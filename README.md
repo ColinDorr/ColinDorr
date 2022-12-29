@@ -4,7 +4,8 @@
 
 # Hello! <img src="https://raw.githubusercontent.com/ColinDorr/ColinDorr/main/wave.gif" width="30px" height="30px" />
 
-My name is Colin Dörr, i'm a Dutch frontend developer. I'm living i'm born in the Netherlands and am living in Amstelveen. Currently i'm working at [NoProtocol](https://www.noprotocol.nl/)/[Noise](https://makesomenoise.nl/) in Amsterdam.
+My name is Colin Dörr. 
+I'm a Dutch frontend developer, living in Amstelveen and currently working at [NoProtocol](https://www.noprotocol.nl/)/[Noise](https://makesomenoise.nl/) in Amsterdam.
 
 <!-- <a href="https://codepen.io/squalo" target="_blank">![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white)</a>  -->
 
