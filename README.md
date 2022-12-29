@@ -1,8 +1,8 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://raw.githubusercontent.com/ColinDorr/ColinDorr/master/readme_header.png "Header")](https://ColinDorr.dev/)
+[![Header](https://raw.githubusercontent.com/ColinDorr/ColinDorr/main/readme_header.png "Header")](http://cdmediadesign.nl/)
 
-# Hello! <img src="https://raw.githubusercontent.com/ColinDorr/ColinDorr/master/wave.gif" width="30px" height="30px" />
+# Hello! <img src="https://raw.githubusercontent.com/ColinDorr/ColinDorr/main/wave.gif" width="30px" height="30px" />
 
 My name is Colin Dörr, i'm a Dutch frontend developer. I'm living i'm born in the Netherlands and am living in Amstelveen. Currently i'm working at [NoProtocol](https://www.noprotocol.nl/)/[Noise](https://makesomenoise.nl/) in Amsterdam.
 
