@@ -5,7 +5,13 @@
 # Hello! <img src="https://raw.githubusercontent.com/ColinDorr/ColinDorr/main/wave.gif" width="30px" height="30px" />
 
 My name is Colin Dörr. 
-I'm a Dutch frontend developer, living in Amstelveen and currently working at [NoProtocol](https://www.noprotocol.nl/)/[Noise](https://makesomenoise.nl/) in Amsterdam.
+
+I'm a Medior Frontend Developer with nearly half a decade of experience. My resume boasts of working on many projects that required my expertise in the field, ranging from animated marketing banners to headless integrated content management systems.
+I am a hardworking and social person, able to work in a team or independently from others, depending on what project needs. I have also held many presentations as wel as taught or mentored several people, when needed. 
+
+As a Frontend Developer, I have a strong background in HTML5, CSS, and JavaScript. I'm also particularly adept at working with Sass, Vue, Typescript, PHP and Twig and able to work with a handful of other Javascript frameworks. Since I work in a highly competitive industry, achieving a high level of efficiency is key to my day to day activities. That's why I love pushing the limits of the technologies I work with, exploring the vast possibilities of new techniques, features and different code frameworks, to improve and optimise my own code. 
+
+I'm also a strong advocate of clean code and maintainable codebases. I believe that the key to writing high-quality, efficient code is to first understand what you're building and why it's needed before diving into coding. 
 
 <!-- <a href="https://codepen.io/squalo" target="_blank">![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white)</a>  -->
 
